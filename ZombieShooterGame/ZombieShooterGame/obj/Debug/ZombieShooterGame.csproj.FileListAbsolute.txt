@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\bin\Debug\ZombieShooterGame.exe.config
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\bin\Debug\ZombieShooterGame.exe
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\bin\Debug\ZombieShooterGame.pdb
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.Form1.resources
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.Properties.Resources.resources
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.exe
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.pdb
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.MenuScreen.resources
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.Form2.resources
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieSh.512EDFF9.Up2Date
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.GameOver.resources
+C:\Users\lenovo\source\repos\ZombieShooterGame\ZombieShooterGame\obj\Debug\ZombieShooterGame.HelpScreen.resources
